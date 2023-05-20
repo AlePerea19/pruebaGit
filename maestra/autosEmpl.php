@@ -15,7 +15,7 @@
       <?php 
   include_once './basesdatos/conexion.php';
   $con = conectar();
-  $sqlConsulta = "SELECT marca, modelo, precio FROM automovil;";
+  $sqlConsulta = "SELECT titulo, autor, descripcion FROM libros;";
   $res = mysqli_query($con, $sqlConsulta);
   
   while($arregloAuto= mysqli_fetch_array($res)){
