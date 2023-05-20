@@ -7,7 +7,7 @@
         Proyecto para curso de Git del tec de toluca
     </h1>
     <h2 style = "align-self: start; margin: 0; padding: 0;border: solid red 2px; font-size: medium; font-style: italic;">
-    Creado por: <strong>Oscar Rojas Arriaga</strong></h2>
+    Ocupado por: <strong>Alejandro Perea</strong></h2>
     <p>
         Este es un ejemplo donde pongo a prueba conceptos como branch, megre, conflictos, pull request, init, commit, etc.
     </p>
